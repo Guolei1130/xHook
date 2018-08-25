@@ -1,11 +1,11 @@
 .DS_Store
 
 libxhook/libs/
-libxhook/obj/
+#libxhook/obj/
 libbiz/libs/
-libbiz/obj/
+#libbiz/obj/
 libtest/libs/
-libtest/obj/
+#libtest/obj/
 
 #for xhookwrapper
 build/
